@@ -76,7 +76,7 @@ const authEndpoint = 'https://accounts.spotify.com/authorize';
 
 // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = '257157cee57849e38629b7b35463f47e';
-const redirectUri = 'https://helene-p.fr/bic/';
+const redirectUri = 'https://helenep21.github.io/betterincolor/';
 const scopes = [
   'user-top-read'
 ];
